@@ -2,8 +2,7 @@
 // @name           Memrise Auto Learn
 // @namespace      https://github.com/cooljingle
 // @description    Fast-track the growth level of words you are planting
-// @match          https://www.memrise.com/course/*/garden/learn*
-// @match          https://app.memrise.com/course/*/garden/learn*
+// @match          https://app.memrise.com/course/1636093/new-aqa-a-level-german-einwanderung/1/garden/learn/?source_element=level_details_session&source_screen=level_details
 // @version        0.0.13
 // @updateURL      https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
